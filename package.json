@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "AI-start",
+  "version": "1.0.0",
+  "description": "",
+  "author": "stu.chen <stuchen_cn@163.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start pnpm -F server start"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "packageManager": "pnpm@10.6.2",
+  "engines": {
+    "node": ">=22",
+    "pnpm": ">=10"
+  }
+}

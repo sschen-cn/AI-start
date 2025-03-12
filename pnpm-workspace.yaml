@@ -1,0 +1,4 @@
+﻿packages:
+  # all packages in direct subdirs of packages/
+  - './server'
+  - './client-web'
